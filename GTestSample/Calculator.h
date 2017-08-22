@@ -1,3 +1,5 @@
+#ifndef CALCULATOR_H
+#define CALCULATOR_H
 class Calculator
 {
 private:
@@ -10,3 +12,5 @@ public:
 	float division();
 	int multiplication();
 };
+
+#endif
